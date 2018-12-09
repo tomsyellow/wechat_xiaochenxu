@@ -1,0 +1,16 @@
+<view class='container'>
+  <view class='title'>
+    <view class='ptitle'>我是陈西南</view>
+    <image src='../../img/aixin2.jpg' class='bimg'></image>
+    <text>鸭王</text>
+  </view>
+  <view class='img'>
+    <image src='../../img/heihei.jpg'></image>
+  </view>
+  <view class='foot'>
+    <view class='about'>关于=></view>
+    <view>
+      <text>嘿嘿,鸿雁哟</text>
+    </view>
+  </view>
+</view>

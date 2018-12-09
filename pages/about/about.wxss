@@ -1,0 +1,42 @@
+.container{
+  background: gainsboro
+}
+.title{
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+.ptitle{
+  font-size: 40px;
+  font-weight: 700;
+  color: palevioletred;
+}
+.title image{
+  width: 40rpx;
+  height: 40rpx;
+  position: absolute;
+  top: 37px;
+  left: 247px;
+}
+.title text{
+  box-sizing:content-box;  
+  margin-top: 80rpx;
+  margin-left: 66px;
+}
+.img image{
+  display: flex;
+  justify-content: center;
+  margin-top: 100rpx;
+}
+.foot{
+  display: flex;
+  justify-content:flex-end;
+  align-items:flex-end;
+}
+.foot .about{
+  font-size: 30px;
+  font-weight: 700;
+}
+.foot text{
+  font-size: 20px; 
+}

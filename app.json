@@ -1,0 +1,17 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/citychoose/citychoose",
+    "pages/setting/setting",
+    "pages/about/about",
+    "pages/info/info"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#40a7e7",
+    "navigationBarTitleText": "温度日记",
+    "navigationBarTextStyle": "light"
+  },
+  "cloud":true
+
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "温度日记栏",
+  "enablePullDownRefresh": true,
+  "usingCompinents":{
+    "heartbeat":"/components/heartbeat.heartbeat"
+  }
+}

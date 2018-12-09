@@ -1,0 +1,10 @@
+<view class='info'>
+  <view class='brand'>
+    <image src='../../img/mobile.png'></image>
+    <text>{{phone}}</text>
+  </view>
+  <view class='item' wx:for='{{infoArr}}' wx:key='{{index}}'>
+    <view class='key'>{{item.name}}</view>
+    <view class='value'>{{infoObj[item.key]}}</view>
+  </view>
+</view>
