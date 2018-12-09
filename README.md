@@ -19,7 +19,7 @@
 
 ..
 
-![image](https://github.com/tomsyellow/wechat_xiaochenxu/blob/master/%E5%9B%BE%E7%89%87%E6%9E%9C/setting.png)
+
 
 
 ...
